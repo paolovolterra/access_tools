@@ -100,5 +100,4 @@ access_tools/
 
 ## 👤 Autore
 
-Creato da [Il Tuo Nome] • Contatti e contributi benvenuti!
-
+Creato da ChatGPT per Paolo Volterra
